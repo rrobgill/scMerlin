@@ -1058,7 +1058,7 @@ ScriptHeader(){
 	printf "${BOLD}##   \__ \| (__ | |  | ||  __/| |   | || || | | |   ##${CLEARFORMAT}\\n"
 	printf "${BOLD}##   |___/ \___||_|  |_| \___||_|   |_||_||_| |_|   ##${CLEARFORMAT}\\n"
 	printf "${BOLD}##                                                  ##${CLEARFORMAT}\\n"
-	printf "${BOLD}##               %s on %-11s              ##${CLEARFORMAT}\\n" "$SCRIPT_VERSION" "$ROUTER_MODEL"
+	printf "${BOLD}##               %s on %-16s         ##${CLEARFORMAT}\\n" "$SCRIPT_VERSION" "$ROUTER_MODEL"
 	printf "${BOLD}##                                                  ##${CLEARFORMAT}\\n"
 	printf "${BOLD}##       https://github.com/jackyaz/scMerlin        ##${CLEARFORMAT}\\n"
 	printf "${BOLD}##                                                  ##${CLEARFORMAT}\\n"
